@@ -1,4 +1,6 @@
-### Santa — software developer.
+### Hi there 👋
+
+Santa — software developer.
 I write code. Sometimes it works, sometimes it breaks. But I never give up. 😂
 
 </a>
